@@ -1,0 +1,18 @@
+#pp{
+    display: inline;
+}
+.sec{
+    background-color: #000000d0;
+    border-radius: 20px;
+}
+#ds,#eq,#z,#zz,#j,#th,#t,#o,#b,#si,#fv,#f,#g,#n,#e,#s,#v,#m,#d,#ac{
+    box-shadow: 10px 10px 10px black;
+}
+#eq{
+     background-color: #41047ad0;
+}
+#ac,#d,#m,#v,#g,#j,#b,#ti{
+   color: blueviolet!important;
+   font-weight: bold;
+}
+
